@@ -4,7 +4,7 @@ I'm a Full Stack Developer with a strong foundation in building scalable web and
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - 💻 Frontend: React.js, Next.js, TypeScript, Tailwind CSS, MUI
 - 📱 Mobile: React Native (Expo)
@@ -15,7 +15,7 @@ I'm a Full Stack Developer with a strong foundation in building scalable web and
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 
 - Portfolio: https://viswanadh.netlify.app/
 - LinkedIn: [linkedin.com/in/viswanadh-mudunuru](https://www.linkedin.com/in/viswanadh-mudunuru/)
