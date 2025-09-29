@@ -9,7 +9,7 @@ I'm a Full Stack Developer with a strong foundation in building scalable web and
 - 💻 Frontend: React.js, Next.js, TypeScript, Tailwind CSS, MUI
 - 📱 Mobile: React Native (Expo)
 - 🛠️ Backend: Node.js, Express.js, Routing Controllers, Sequelize, REST APIs
-- 🧠 Database: MongoDB, MySQL
+- 🧠 Database: MongoDB, MySQL, PostgreSQL
 - ☁️ Cloud & Tools: Firebase, Git, GitHub
 - 📦 Dev Tools: VSCode, Postman, ESLint
 
